@@ -4,4 +4,4 @@
 
 Demo
 
-https://codesandbox.io/p/github/wass08/threejs-r3f-tutorial-animations/draft/stoic-scooby?file=%2Fsrc%2FApp.jsx
+https://avataranimations-30a5--5173--96435430.local-corp.webcontainer.io/
